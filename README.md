@@ -4,7 +4,7 @@ I am a junior Quality Assurance Automation (and Manual) engineer.
 
 
 
-### What do I do?
+### My work
 
 In my current role, I am responsible for testing an application for one of the leading software companies in the insurance sector in the UK. As a Quality Analyst I work closely with our Business Analysts. I plan and execute both manual and semi-automated tests. I automate tests using Python.
 
@@ -12,21 +12,32 @@ In my current role, I am responsible for testing an application for one of the l
 
 
 
-### What is my favorite tech?
+### My tools
 
-I love working with:
+#### I love
 - Linux 🐧
 - Python 🐍
 - Git + GitHub :octocat:
-- Postman 🚀
+- Postman 🚀 (I have a soft spot for testing APIs)
+- Automation in general
+
+#### I use daily
+- Python
 - SQL
+- Git
+- Bash
+- PowerShell
+- Atlassian (Bitbucket, Bamboo, Jira, Confluence)
+- TestRail
+
+#### I used to work with
+- Postman 🚀
 - JavaScript (+Playwright, Cypress)
 
-I have basic knowledge of:
+#### I know the basics of
 - Docker 🐋
 - Podman 🦦
 - Jenkins
-
-⚙️ I have a soft spot for testing APIs.
+- C++
 
 Feel free to contact me 😊
